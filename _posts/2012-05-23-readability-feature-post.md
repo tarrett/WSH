@@ -3,7 +3,7 @@ layout: post
 title: "zheng can"
 date: 2019-04-16
 excerpt: "."
-tags: [food, feature]
+tags: [food]
 feature: /assets/img/placeholder-big.jpg
 comments: true
 ---

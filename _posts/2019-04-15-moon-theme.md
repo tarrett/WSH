@@ -4,8 +4,8 @@ title:  "Moon Jekyll Theme"
 date:   2019-04-15
 excerpt: "Minimal, one column Jekyll theme for your blog."
 category: shelter
-tag:
-- shelter
+tags: [shelter]
+feature: /assets/img/shelter-1.jpg
 comments: true
 ---
 
