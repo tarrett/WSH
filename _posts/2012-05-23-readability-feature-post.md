@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Post with Image Feature"
-date: 2012-05-23
-excerpt: "A ton of text to test readability with image feature."
+title: "zheng can"
+date: 2019-04-16
+excerpt: "."
 tags: [sample post, readability, test, image, feature]
 feature: /assets/img/placeholder-big.jpg
 comments: true
