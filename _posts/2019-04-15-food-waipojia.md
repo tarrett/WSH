@@ -16,7 +16,7 @@ comments: true
 
 ## 青豆泥
 这是我在最喜欢的一道菜（其实称之为甜品更合适）。主要材料是豌豆，另外它还是热的。
-[!青豆泥](/assets/img/qingdouni2.jpg)
+[!青豆泥](/assets/img/qindouni2.jpg)
 
 
 ## 马家沟芹菜
