@@ -1,156 +1,22 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
+title:  "租房"
 date:   2019-04-15
-excerpt: "Minimal, one column Jekyll theme for your blog."
+excerpt: "租房最好租在离公司比较近的地方或者坐地铁方便的地方."
 category: shelter
 tags: [shelter]
 feature: /assets/img/shelter-1.jpg
 comments: true
 ---
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-    
-<center><b>Moon</b> is a minimal, one column jekyll theme.</center>
-     
- I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
+目前租房市场上有四种租房类型：房东直租、二房东出租、长租公寓、人才公寓。其中二房东这种类型需要尽量避免。下面主要对长租公寓和人才公寓给你做个详细的介绍。
 
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
+## 长租公寓
+这是最近两三年渐渐火起来的一种租房方式。它的优点是比较省事，不会出现（人品差的）房东随意找事的问题。一个合同期一般为一年，合同期内房租一般是押一付一的，一般每个月会有一定的服务费，通常为房租的5%。但是需要特别注意的是长租公寓的房租是以一种贷款的形式进行的，当你签订租房合同的时候其实你同时也签订了一个贷款合同（这个工作人员一般不会直接告诉你），贷款的金额就是合同期内的房租，贷款出来的钱银行在合同生效的时候全部给了长租公寓的公司，之后你每个月交的房租就是在还银行贷款，并且所谓的服务费其实就是贷款的利息。所以这里就存在一个潜在的风险，一旦长租公寓的公司带着钱跑路了就比较麻烦了，银行的钱还需要接着还，房东可能还不让你继续住下去。所以如果选择长租公寓的时候尽量选择品牌大一点的公司，并且多去了解一些信息，
+
+
+## 人才公寓
+人才公寓是政府提供的租房服务，房屋的质量和租金相对来说都是比较有优势的。租期一般是三年，三年内只要每个季度按时交房租和水电费就行。三年合同到期之后一般是可以再续租三年的。各个区人才公寓的政策都可能不太一样，我这里以滨江区为例给你做个简单的介绍。滨江区的人才公寓是区政府按缴税情况划分给总部在滨江区的公司的，然后公司再在公司内部进行消化，有的公司选择摇号，有的公司则是直接指派，但不论哪种方式租户都必须要满足区政府的制定的一些条件。
       
-## Installation
-* Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
-* Edit `_config.yml` file.
-* Remove sample posts from `_posts` folder and add yours.
-* Edit `index.md` file in `about` folder.
-* Change repo name to `YourUserName.github.io`    
-     
-That's all.
-
-## Preview
-
-{% capture images %}
-	https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-	https://cloud.githubusercontent.com/assets/754514/14509717/61ad05ae-01d6-11e6-85ae-5a817dd8763b.png
-	https://cloud.githubusercontent.com/assets/754514/14509714/61a89708-01d6-11e6-8fcd-74b002a060df.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
-
----
-
-{% capture images %}
-	https://cloud.githubusercontent.com/assets/754514/14509718/61b09a20-01d6-11e6-8da1-4202ae4d83cd.png
-	https://cloud.githubusercontent.com/assets/754514/14509715/61aa9d00-01d6-11e6-81a6-c6837edf2e84.png
-{% endcapture %}
-{% include gallery images=images caption="Moon Theme on Small Screen Size" cols=2 %}      
-      
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.      
-
-## Site Setup
-A quick checklist of the files you’ll want to edit to get up and running.    
-
-### Site Wide Configuration
-`_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each if needed:
-
-#### title
-
-The title of your site... shocker!
-
-Example `title: My Awesome Site`
-
-#### bio
-
-The description to show on your homepage.
-
-#### description
-
-The description to use for meta tags and navigation menu.
-
-#### url
-
-Used to generate absolute urls in `sitemap.xml`, `feed.xml`, and for generating canonical URLs in `<head>`. When developing locally either comment this out or use something like `http://localhost:4000` so all assets load properly. *Don't include a trailing `/`*.
-
-Examples:
-
-{% highlight yaml %}
-url: http://taylantatli.me/Moon
-url: http://localhost:4000
-url: //cooldude.github.io
-url:
-{% endhighlight %}
-
-#### reading_time
-
-Set true to show reading time for posts. And set `words_per_minute`, default is 200.
-
-#### logo
-Your site's logo. It will show on homepage and navigation menu. Also used for twitter meta tags.
-
-#### background
-Image for background. If you don't set it, color will be used as a background.
-
-#### Google Analytics and Webmaster Tools
-
-Google Analytics UA and Webmaster Tool verification tags can be entered in `_config.yml`. For more information on obtaining these meta tags check [Google Webmaster Tools](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=35179) and [Bing Webmaster Tools](https://ssl.bing.com/webmaster/configure/verify/ownership) support.
-
-#### MathJax
-It's enabled. But if you don't want to use it. Set it false in  `_config.yml`.
-
-#### Disqus Comments
-Set your disqus shortname in `_config.yml` to use comments.
-
----
-
-### Navigation Links
-
-To set what links appear in the top navigation edit `_data/navigation.yml`. Use the following format to set the URL and title for as many links as you'd like. *External links will open in a new window.*
-
-{% highlight yaml %}
-- title: Home
-  url: /
-
-- title: Blog
-  url: /blog/
-
-- title: Projects
-  url: /projects/
-
-- title: About
-  url: /about/
-
-- title: Moon
-  url: http://taylantatli.me/Moon
-{% endhighlight %}
-
----
-
-## Layouts and Content
-
-Moon Theme use [Jekyll Compress](https://github.com/penibelst/jekyll-compress-html) to compress html output. But it can cause errors if you use "linenos" (line numbers). I suggest don't use line numbers for codes, because it won't look good with this theme, also i didn't give a proper style for them. If you insist to use line numbers, just remove `layout: compress` string from layouts. It will disable compressing.
-
-### Feature Image
-
-You can set feature image per post. Just add `feature: some link` to your post's front matter.
-
-```
-feature: /assets/img/some-image.png
-or
-feaure: http://example.com/some-image.png
-```    
- This also will be used for twitter card:
-
-![Moon Twitter Card](https://cloud.githubusercontent.com/assets/754514/14509719/61c5751c-01d6-11e6-8c29-ce8ccad149bf.png)
-
-### Comments
-To show disqus comments for your post add `comments: true` to your post's front matter.
-
----
-
-## Questions?
-
-Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Moon/issues/new). And if you make something cool with this theme feel free to let me know.
-
----
-
-## License
-
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.
+## 建议
+找到工作之后先从人事那里打听一下人才公寓的一些事情，如果有机会租人才则可以优先考虑人才公寓，如果不能租人才公寓再去考虑房东直租和长租公寓。另外，租房的时候尽量不要租那种隔断的房子，一是不安全因素比较多，二是这种房子是违规的，政府经常会入户检查，一旦被查到就需要立马重新找房子（之前的一个同事就遭遇过这种事，当天下午被检查出来，晚上就不让住了）。如果没时间找房子可以找个中介，他们的房源比较多，可以省去很多时间。成功租房之后中介的收费一般是半个月房租。如果仅仅是让中介带看，但最终没有从他们手里租房则不会收费。这只是普遍情况，具体还需要事前问清楚。
