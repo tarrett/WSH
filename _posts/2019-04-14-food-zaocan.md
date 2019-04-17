@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "A Post with a Video"
-date:   2016-03-15
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+title:  "小吃"
+date:   2019-04-14
+excerpt: "杭州的小吃个人感觉没北方的丰富，但是有两家我觉得还是不错的."
 tag:
 - food
 comments: true
 ---
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
 
-Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
+## 嵊州小吃
+有点类似于沙县小吃的感觉，虽然有很多叫嵊州小吃的店，但是都不是连锁的，所以店铺的水平不一，但基本上不会差太多。推荐豆腐年糕、蒸饺、豆腐包、炒粉干。
 
-Not sure if this only effects Kramdown or if it's an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the `<iframe>` tags and remove `allowfullscreen`. Example below:
+## 咬不得高祖生煎
+杭州本土的一个品牌，市内有很多连锁店。推荐虾仁生煎、东阳沃面、黑椒牛肉拌面、西湖牛肉羹。
 
-{% highlight html %}
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
-{% endhighlight %}
+## 新丰小吃
+这个是其实我是不想写上来的，因为店里的很多食物我都尝试过，没有一样是我觉得很好吃的，并且价格也不低，但是每次路过都能看到很多人在排队，这也是我很费解的一点，不知道是不是我的口味有问题，你有机会了可以去尝一下。
