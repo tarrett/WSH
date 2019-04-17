@@ -16,19 +16,19 @@ comments: true
 
 ## 青豆泥
 这是我在最喜欢的一道菜（其实称之为甜品更合适）。主要材料是豌豆，另外它还是热的。
-![青豆泥](/assets/img/qindouni2.jpg)
+![青豆泥]({{site.url}}/assets/img/qindouni2.jpg)
 
 
 ## 马家沟芹菜
 口感很好，和啤酒是绝配。
-![马家沟芹菜](/assets/img/majiagou.jpg)
+![马家沟芹菜]({{site.url}}/assets/img/majiagou.jpg)
 
 ## 老李鳗干
 招牌菜，
-![老李鳗干](/assets/img/mangan.jpg)
+![老李鳗干]({{site.url}}/assets/img/mangan.jpg)
 
 ## 东坡肉
-![东坡肉](/assets/img/dongporou.jpg)
+![东坡肉]({{site.url}}/assets/img/dongporou.jpg)
 
 ## 金牌油条虾
-![金牌油条虾](/assets/img/dunluobo.jpg)
+![金牌油条虾]({{site.url}}/assets/img/dunluobo.jpg)
