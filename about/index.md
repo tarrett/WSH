@@ -1,37 +1,40 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
-comments: false
+title: "关于杭州"
+date: 2019-04-16
+tags: [about]
+comments: true
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## 行政区划
+目前杭州一共有10个区：上城区、下城区、江干区、拱墅区、西湖区、滨江区、萧山区、余杭区、富阳区、临安区。其中西湖区大部分、上城区、下城区、拱墅区一部分算是传统意义上的市中心，也是最繁华的地带。滨江区和江干区这几年的发展也很快，房价也在向市中心看齐。萧山区、余杭区、富阳区、临安区之前都是归杭州管辖的县级市，现在都划成杭州的一个区。其中余杭、萧山划入的时间比较久了，目前发展的也很好，同时由于这两个区面积也都比较大（在划入杭州之前甚至比传统上的杭州市还大），所以发展也很不均衡。富阳区和临安区是新近划入杭州的两个区，由于没怎么去过，所以也不是很了解。
 
-## Preview
+## 气候
+杭州处于亚热带季风区，属于亚热带季风气候，四季分明，雨量充沛（平均降雨天数为130~160天）。全年平均气温17.8℃，平均相对湿度70.3%。夏季气候炎热、湿润。相反，冬季寒冷、潮湿，也就是最近网上常说的“湿冷”。春秋两季气候宜人，是观光旅游的黄金季节。3-5月份是风景最为优美的时间。6月份是梅雨季节，大概会有持续一个月左右的阴雨天气。
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## 交通
+杭州的公共交通一直是为人诟病的一点，目前地铁仅开通了1号线、2号线、4号线，预计年内5号线好6号线也将开通。杭州公交车的覆盖面也不是特别全面，还有就是有些公交车的间隔时间会特别长。地铁线路图如下：
+![地铁线路](/assets/img/ditiexianlu.png)
+![1号线（下沙江滨）](/assets/img/1haoxian.png)
+![1号线（临平方向）](/assets/img/1haoxian2.png)
+![2号线](/assets/img/2haoxian.png)
+![4号线](/assets/img/line3.png)
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+除了地铁和公交之外，杭州的公共交通中还有公共自行车，这和现在的共享单车比较相似，但是它的出现要比共享单车早很多。现在人们一般都称公共自行车为“小红车”。小红车需要有公交卡和市民卡，并且卡内余额超过200元的时候才能租用。小红车在租用后一个小时内是免费的，超过一个小时后每小时按1元计费，如果在一个小时内把车还上，然后再租用就会重新计时，所以理论上在你可以免费使用的。但是小红车有个缺点就是只能在有车桩的租赁点进行租用和归还。在还车时如果一个租赁点没有空闲的车桩则无法还车，需要到其它租赁点进行还车。之前听说在向类似共享单车那种无桩租车还车的方向转变，但是目前还未看到落地。
 
-## Getting Started
+<!--
+{% highlight html %}
+<figure class="third">
+	<img src="/images/image-filename-1.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
+{% endhighlight %}
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+
+<figure class="third">
+	<img src="http://placehold.it/600x300.jpg">
+	<img src="http://placehold.it/600x300.jpg">
+	<img src="http://placehold.it/600x300.jpg">
+	<figcaption>Three images.</figcaption>
+</figure>
+-->
