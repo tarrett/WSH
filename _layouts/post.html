@@ -28,8 +28,10 @@ layout: compress
                     <a class="btn zoombtn" href="{{site.url}}/posts/">
                     {% elsif page.tags contains 'shelter' %}
                     <a class="btn zoombtn" href="{{site.url}}/projects/">
-                    {% else %}
+                    {% elsif page.tags contains 'play' %}
                     <a class="btn zoombtn" href="{{site.url}}/plays/">
+                    {% else %}
+                    <a class="btn zoombtn" href="{{site.url}}">
                     {% endif %}
                         <i class="fa fa-chevron-left"></i>
                     </a>
