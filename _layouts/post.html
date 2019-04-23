@@ -24,11 +24,11 @@ layout: compress
                       {% include read-time.html %}
                     </p><!-- /.entry-reading-time -->
                     {% endif %}
-                    {% if  food in page.tags %}
+                    {% if page.tags contains 'food' %}
                     <a class="btn zoombtn" href="{{site.url}}/posts/">
-                    {% elif shelter in page.tags %}
+                    {% elif page.tags contains 'shelter' %}
                     <a class="btn zoombtn" href="{{site.url}}/projects/">
-                    {% else play in page.tags %}
+                    {% else %}
                     <a class="btn zoombtn" href="{{site.url}}/plays/">
                     {% endif %}
                         <i class="fa fa-chevron-left"></i>
