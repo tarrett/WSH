@@ -14,17 +14,20 @@ comments: true
 
 ## 蛋黄鸡翅
 ![蛋黄鸡翅]({{site.url}}/assets/img/danhuangjichi.jpg)
+它家的蛋黄鸡翅咸香酥脆，外脆里嫩，非常符合我的口味，强烈推荐，但是它是油炸的，吃多容易上火，还是尽量少吃。
 
 ## 鱼羊鲜
 ![鱼羊鲜]({{site.url}}/assets/img/yuyangxian.jpg)
+鱼和羊在一起味道能够互补，一起烹制有一种独特的鲜香、浓郁的味道，这道菜的汤尤其好喝，强烈推荐。
 
 ## 铁板浇汁肥牛
-![铁板浇汁肥牛]({{site.url}}/assets/img/tiebanjiaozhiniurou.jpg)
+![铁板浇汁肥牛]({{site.url}}/assets/img/tiebanjiaozhiniurou.jpeg)
+菜上来的时候上面的鸡蛋是生的，要趁着铁板的热度用生鸡蛋将牛肉拌开，这样肥牛就会非常鲜嫩，但是味道有点偏甜，喜欢的话会非常喜欢，不喜欢的话就会很排斥，可以尝试一下。
 
 ## 菠萝牛柳
 ![菠萝牛柳]({{site.url}}/assets/img/boluoniuliu.jpg)
 菠萝和牛肉看起来很不搭，但是这道菠萝牛柳的味道非常棒，牛肉中渗有菠萝的酸甜味和香气，给人一种很舒服的感觉，强烈推荐。
 
 ## 西湖莼菜汤
-![西湖莼菜]({{site.url}}/assets/img/xihuchuncai.jpg)
+![西湖莼菜]({{site.url}}/assets/img/xihuchuncai.jpeg)
 这道菜味道清新，口感独特，莼菜到嘴里那种滑滑、肉肉的口感让人记忆犹新，之前没有吃过的话可以尝试一下。
