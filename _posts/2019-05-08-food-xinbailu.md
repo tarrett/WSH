@@ -13,9 +13,18 @@ comments: true
 # 推荐菜
 
 ## 蛋黄鸡翅
+![蛋黄鸡翅]({{site.url}}/assets/img/danhuangjichi.jpg)
 
 ## 鱼羊鲜
+![鱼羊鲜]({{site.url}}/assets/img/yuyangxian.jpg)
 
 ## 铁板浇汁肥牛
+![铁板浇汁肥牛]({{site.url}}/assets/img/tiebanjiaozhiniurou.jpg)
 
 ## 菠萝牛柳
+![菠萝牛柳]({{site.url}}/assets/img/boluoniuliu.jpg)
+菠萝和牛肉看起来很不搭，但是这道菠萝牛柳的味道非常棒，牛肉中渗有菠萝的酸甜味和香气，给人一种很舒服的感觉，强烈推荐。
+
+## 西湖莼菜汤
+![西湖莼菜]({{site.url}}/assets/img/xihuchuncai.jpg)
+这道菜味道清新，口感独特，莼菜到嘴里那种滑滑、肉肉的口感让人记忆犹新，之前没有吃过的话可以尝试一下。
