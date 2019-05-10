@@ -4,7 +4,7 @@ title: "新白鹿"
 date: 2019-05-08
 excerpt: "新白鹿和外婆家一样，也是有名的排队餐厅。虽然名气没有外婆家那么响亮，餐厅数量也没外婆家那么多，但个人感觉在菜品、服务质量、餐厅环境等方面丝毫不亚于外婆家，甚至在某些方面会更好。"
 tags: [food]
-feature: /assets/img/waipojia.jpg
+feature: /assets/img/xinbailu.jpeg
 comments: true
 ---
 
