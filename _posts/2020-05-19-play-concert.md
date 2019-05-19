@@ -51,6 +51,8 @@ comments: false
 # 3. 2019上海滴水湖阳光音乐节
 ![dishuihu]({{site.url}}/assets/img/dishuihuyinyuejie.jpg)
 
+这个音乐节有华晨宇，并且是第一天的压轴歌手。
+
 ### 地点：
 * 浦东新区临港新城滴水湖西岛
 
@@ -67,6 +69,8 @@ comments: false
 
 # 4. 2019上海春浪音乐节
 ![chunlang]({{site.url}}/assets/img/chunlang.jpg)
+
+这个音乐节有朴树、吴青峰、田馥甄、逃跑计划等歌手，我觉得还是值得一看的。
 
 ### 地点：
 * 上海国际音乐村（光明生态园内）
