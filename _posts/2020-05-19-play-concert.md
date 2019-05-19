@@ -83,7 +83,7 @@ comments: false
 ![gongyezhenshou]({{site.url}}/assets/img/gongyezhenshou.webp)
 
 ### 地点：
-* 上海 | 国家会展中心(上海)虹馆EH
+* 国家会展中心(上海)虹馆EH
 
 ### 时间：
 * 2019-08-10 周六 19：30
@@ -146,7 +146,7 @@ comments: false
 * 内场2： 1280 元
 
 # 9. 李宗盛 2019[有歌之年]演唱会绍兴站
-![zhenrong]({{site.url}}/assets/img/lizongsheng.jpg)
+![lizongsheng]({{site.url}}/assets/img/lizongsheng.jpg)
 
 ### 地点：
 * 绍兴市奥体中心体育馆
@@ -183,7 +183,7 @@ comments: false
 ![zhidaoshijiejintou]({{site.url}}/assets/img/zhidaoshijiejintou.webp)
 
 ### 地点：
-* 上海 | Modernsky lab上海
+* Modernsky lab上海
 
 ### 时间：
 * 2019-06-08 周六 19：30
