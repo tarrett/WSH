@@ -16,7 +16,7 @@ comments: false
 ![zhoujielun]({{site.url}}/assets/img/zhoujielun.webp)
 
 ### 地点：
-* 上海 | 梅赛德斯-奔驰文化中心
+* 梅赛德斯-奔驰文化中心
 
 ### 时间：
 * 2019-10-17 周四 20：00
