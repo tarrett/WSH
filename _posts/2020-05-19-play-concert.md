@@ -31,24 +31,7 @@ comments: false
 * 看台4：1980元
 * 内场：2580元
 
-# 2. 伍佰 & China Blue Rock Star 2019杭州演唱会
-![wubai]({{site.url}}/assets/img/wubai.jpg)
-
-### 地点：
-* 杭州黄龙体育中心
-
-### 时间：
-* 2019-05-25 周六 19：30
-
-### 票价：
-* 看台1：280元（售罄）
-* 看台2：380元（售罄）
-* 看台3：480元（售罄）
-* 看台4：680元
-* 内场1：880元
-* 内场2：1080元
-
-# 3. 2019上海滴水湖阳光音乐节
+# 2. 2019上海滴水湖阳光音乐节
 ![dishuihu]({{site.url}}/assets/img/dishuihuyinyuejie.jpg)
 
 滴水湖阳光音乐节有你喜欢的华晨宇，并且是第一天的压轴歌手。
@@ -67,7 +50,7 @@ comments: false
 ### 演出时间表：
 ![dishuihu]({{site.url}}/assets/img/dishuihu-yanchushijianbiao.jpg)
 
-# 4. 2019上海春浪音乐节
+# 3. 2019上海春浪音乐节
 ![chunlang]({{site.url}}/assets/img/chunlang.jpg)
 
 这个音乐节有朴树、吴青峰、田馥甄、逃跑计划等歌手，我觉得还是值得一看的。
@@ -83,7 +66,7 @@ comments: false
 * 单日：380元
 * 双日：700元
 
-# 5. 宫野真守亚洲巡回演唱会2019 〜BLAZING!〜上海站
+# 4. 宫野真守亚洲巡回演唱会2019 〜BLAZING!〜上海站
 ![gongyezhenshou]({{site.url}}/assets/img/gongyezhenshou.webp)
 
 ### 地点：
@@ -99,7 +82,7 @@ comments: false
 
 5月25号 15：00开启预售
 
-# 6. LIVE NATION 倾力呈现 The Chainsmokers: 2019上海演唱会
+# 5. LIVE NATION 倾力呈现 The Chainsmokers: 2019上海演唱会
 ![Chainsmokers]({{site.url}}/assets/img/Chainsmokers.jpg)
 
 ### 地点：
@@ -115,7 +98,7 @@ comments: false
 * 内场1：1180元
 * 内场2：1580元
 
-# 7. 许巍“无尽光芒”巡回演唱会—杭州站
+# 6. 许巍“无尽光芒”巡回演唱会—杭州站
 ![xuwei]({{site.url}}/assets/img/xuwei.jpg)
 
 ### 地点：
@@ -132,7 +115,7 @@ comments: false
 * 看台5：1080元
 * 内场：1380元
 
-# 8. 许嵩2019“寻宝游戏”演唱会-上海站
+# 7. 许嵩2019“寻宝游戏”演唱会-上海站
 ![xuwei]({{site.url}}/assets/img/xusong.jpg)
 
 ### 地点：
@@ -149,7 +132,7 @@ comments: false
 * 内场1： 1080 元
 * 内场2： 1280 元
 
-# 9. 李宗盛 2019[有歌之年]演唱会绍兴站
+# 8. 李宗盛 2019[有歌之年]演唱会绍兴站
 ![lizongsheng]({{site.url}}/assets/img/lizongsheng.jpg)
 
 ### 地点：
@@ -165,7 +148,7 @@ comments: false
 * 内场1：1280元
 * 内场2：1680元
 
-# 10. 2019百草味氧气音乐节 【杭州】
+# 9. 2019百草味氧气音乐节 【杭州】
 ![baicaowei]({{site.url}}/assets/img/baicaoweiyinyuejie.webp)
 
 ### 地点：
@@ -183,7 +166,7 @@ comments: false
 ### 主要歌手：
 * 李健，欧阳靖，陈绮贞，逃跑计划，郭顶，YongG,马赛克，万能青年旅店
 
-# 11. 直到世界尽头-8090经典动漫演唱会上海站
+# 10. 直到世界尽头-8090经典动漫演唱会上海站
 ![zhidaoshijiejintou]({{site.url}}/assets/img/zhidaoshijiejintou.webp)
 
 ### 地点：
